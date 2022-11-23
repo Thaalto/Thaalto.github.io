@@ -10,9 +10,10 @@ h2 {
   border: 3px dotted orange;
 }
 p {
-  background-color: rgba(218, 35, 49, 0.28);
+ background-color: rgba(218, 35, 49, 0.28);
+ border-radius: 30px;
  color: green;
-  font-size: 12px;
+ font-size: 12px;
 }
 .myDiv {
   border-style: dotted;
