@@ -4,6 +4,10 @@ color: black
 }
 h1 {
   font-size: 20px;
+  border: 7px solid yellow;
+}
+h2 {
+  border: 5px dotted orange;
 }
 p {
   color: green;
