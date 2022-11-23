@@ -22,6 +22,8 @@ p {
  border-radius: 30px;
  color: green;
  font-size: 12px;
+ padding: 13px;
+    margin: 20px;
 }
 .myDiv {
   border-style: dotted;
