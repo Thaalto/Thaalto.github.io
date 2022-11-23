@@ -5,9 +5,17 @@ color: black
 h1 {
  border: 4px solid yellow; 
  font-size: 20px;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  padding-left: 90px;
 }
 h2 {
   border: 3px dotted orange;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  margin-right: 100px;
+  margin-left: 50px;
 }
 p {
  background-color: rgba(218, 35, 49, 0.28);
