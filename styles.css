@@ -3,14 +3,15 @@ body {
 color: black
 }
 h1 {
-  font-size: 20px;
-  border: 7px solid yellow;
+ border: 7px solid yellow; 
+ font-size: 20px;
 }
 h2 {
   border: 5px dotted orange;
 }
 p {
-  color: green;
+  background-color: rgba(218, 35, 49, 0.28);
+ color: green;
   font-size: 12px;
 }
 .myDiv {
