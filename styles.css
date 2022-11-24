@@ -5,15 +5,16 @@ body {
 color: black
 }
 h1 {
- border: 1px solid orange; 
- font-size: 30px;
+ border: 2px solid orange; 
+ font-size: 40px;
   padding-top: 40px;
   padding-right: 20px;
   padding-bottom: 40px;
   padding-left: 90px;
 }
 h2 {
-  border: 3px dotted orange;
+  border: 1px dotted orange;
+  font-size: 30px;
   margin-top: 90px;
   margin-bottom: 90px;
   margin-right: 100px;
@@ -23,7 +24,7 @@ p {
  background-color: rgba(218, 35, 49, 0.28);
  border-radius: 30px;
  color: black;
- font-size: 12px;
+ font-size: 20px;
  padding: 13px;
     margin: 20px;
 }
