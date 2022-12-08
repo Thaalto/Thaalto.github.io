@@ -24,6 +24,27 @@ h2 {
   margin-left: 50px;
  text-align: center;
 }
+#header {
+  padding: 20px;
+  text-align: center;
+  background: white;
+  color: blue;
+  font-size: 30px;
+}
+#nav {
+  padding: 10px;
+  text-align: left;
+  background: white;
+  color: violet;
+  font-size: 15px;
+}
+#section {
+  padding: 5px;
+  text-align: center;
+  background: yellow;
+  color: blue;
+  font-size: 10px;
+}
 p {
  background-color: rgba(218, 35, 49, 0.28);
  border-radius: 30px;
