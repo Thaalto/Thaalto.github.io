@@ -11,7 +11,7 @@ color: black;
 }
 
 header {
-  background-color: #666;
+  background-color: #255770;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -22,7 +22,7 @@ nav {
   float: left;
   width: 30%;
  height: 300px;
-  background: #ccc;
+  background: #9fcbe0;
   padding: 20px;
 }
 
@@ -35,7 +35,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
+  background-color: #e4f1f7;
 }
 
 section::after {
@@ -45,7 +45,7 @@ section::after {
 }
 
 footer {
-  background-color: #777;
+  background-color: #255770;
   padding: 10px;
   text-align: center;
   color: white;
