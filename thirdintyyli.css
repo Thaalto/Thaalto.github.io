@@ -42,6 +42,12 @@ article {
 a:hover {
   color: red;
 }
+a:link {
+  color: white;
+ }
+
+a:visited {
+  color: grey;
 
 section::after {
   content: "";
