@@ -38,6 +38,10 @@ article {
   background-color: #e4f1f7;
 }
 
+a:hover {
+  color: red;
+}
+
 section::after {
   content: "";
   display: table;
