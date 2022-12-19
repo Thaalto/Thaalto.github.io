@@ -31,14 +31,14 @@ h2 {
   color: blue;
   font-size: 30px;
 }
-#nav {
+.nav {
   padding: 10px;
   text-align: left;
   background: white;
   color: violet;
   font-size: 15px;
 }
-#section {
+.section {
   padding: 5px;
   text-align: center;
   background: yellow;
