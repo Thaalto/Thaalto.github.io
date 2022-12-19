@@ -37,6 +37,8 @@ h2 {
   background: white;
   color: violet;
   font-size: 15px;
+  display: block;
+}
 }
 .section {
   padding: 5px;
